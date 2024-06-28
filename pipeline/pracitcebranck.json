@@ -1,0 +1,17 @@
+{
+	"name": "pracitcebranck",
+	"properties": {
+		"activities": [
+			{
+				"name": "Waitfor10",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
